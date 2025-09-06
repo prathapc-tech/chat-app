@@ -9,3 +9,10 @@ This project demonstrates how to build a full-stack chat system with:
 - Online status indicators
 - Typing indicators
 - Real-time updates
+## 🔧 Tech Stack
+- **Frontend:** React.js, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Real-time:** WebSockets (Socket.io)  
+- **Database:** MongoDB (or PostgreSQL)  
+- **Auth:** JWT (for login & sessions)  
+- **Deployment:** Vercel (frontend), Render/Heroku (backend)
