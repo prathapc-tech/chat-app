@@ -24,3 +24,11 @@ This project demonstrates how to build a full-stack chat system with:
 - ✍️ Typing indicators  
 - 🔔 Real-time message updates  
 - 📱 Responsive design (mobile + desktop)
+## 📁 Project Structure
+chat-app/
+├─ backend/ # Node.js + Express + Socket.io server
+├─ frontend/ # React.js client
+├─ models/ # Database models (User, Message, ChatRoom)
+├─ config/ # Config files (DB, JWT)
+├─ package.json
+└─ README.md
